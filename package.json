@@ -1,0 +1,20 @@
+{
+  "name": "vite-js",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "@vue/compiler-sfc": "^3.3.11",
+    "vite": "^4.5.1"
+  },
+  "dependencies": {
+    "@vue/compat": "^3.3.11",
+    "numjs": "^0.16.1",
+    "path-browserify": "^1.0.1",
+    "vue": "^3.3.11"
+  }
+}
